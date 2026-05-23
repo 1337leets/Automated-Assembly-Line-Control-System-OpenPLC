@@ -1,0 +1,2 @@
+# Tell GitHub Linguist that .st (IEC 61131-3 Structured Text) here is PASCAL, not Smalltalk
+*.st linguist-language=Pascal
